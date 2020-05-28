@@ -4,6 +4,6 @@ Personel İzin Takip Uygulaması.
 
 Object Oriented Swing Project
 
-Semester 1 ComputerProgramming1 Course
+1st Semester ComputerProgramming1 Course
 
 Furkan Gündoğan aka furu
